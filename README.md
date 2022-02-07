@@ -1,1 +1,1 @@
-# Jupyter-notebook_Lessons
+# Jupyter notebook Lessons
