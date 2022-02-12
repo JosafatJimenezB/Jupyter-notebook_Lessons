@@ -101,7 +101,7 @@ desde una notebook creada en Jupyter con visual studio code
 
 
 
-
+***
 
 ## :computer: Clonar este repositorio
 
@@ -130,9 +130,11 @@ git clone https://github.com/JosafatJimenezB/KatasJosafatLaunchX.git
 ```
 
 
-## Nota:
+**Nota**
 
 Este contenido extra fue realizado con el motivo de mostrar lo aprendido en lenguaje markdown y para poder ponerlo en practica!!
+
+
 
 
 ###### Made with :heart: by Josafat Jimenez
