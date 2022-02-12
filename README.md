@@ -1,4 +1,4 @@
-![Banner](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/blob/main/extra/index.jpg)
+![Banner](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/blob/main/extra/index.jpg)
 
 # Katas LaunchX :man_technologist:
 
@@ -13,12 +13,12 @@ desde una notebook creada en Jupyter con visual studio code
 
 ## :blue_book: Contenido de las Katas
 
-### :man_astronaut: [Kata 0](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%200)
+### :man_astronaut: [Kata 0](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%200)
 
 * Creacion de una notebook
 * Ejecucion de una notebook
 
-### :man_astronaut: [Kata 1](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%201)
+### :man_astronaut: [Kata 1](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%201)
 
 * Funcion print( )
 * Variables
@@ -32,12 +32,12 @@ desde una notebook creada en Jupyter con visual studio code
   * Entrada del Usuario
   * Trabajar con números
 
-### :man_astronaut: [Kata 2](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%202) 
+### :man_astronaut: [Kata 2](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%202) 
 
 * Trabajar con paquetes
 * Entornos virtuales
 
-### :man_astronaut: [Kata 3](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%203)
+### :man_astronaut: [Kata 3](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%203)
 
 * Lógica Booleana
 * Escribir declaraciones if()
@@ -46,7 +46,7 @@ desde una notebook creada en Jupyter con visual studio code
 * Trabajar con lógica condicional anidada
 * Operadores "and" "or"
 
-### :man_astronaut: [Kata 4](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%204)
+### :man_astronaut: [Kata 4](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%204)
 
 * Conceptos bascicos de cadenas en Python
   * Inmutabilidad de las cadenas
@@ -60,7 +60,7 @@ desde una notebook creada en Jupyter con visual studio code
 * Formato de cadenas en Python
 
 
-### :man_astronaut: [Kata 5](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%205)
+### :man_astronaut: [Kata 5](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%205)
 
 * Operadores en Python
   * Adición (Suma)
@@ -74,7 +74,7 @@ desde una notebook creada en Jupyter con visual studio code
   * Redondeo
   * Biblioteca Math
 
-### :man_astronaut: [Kata 6](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%206)
+### :man_astronaut: [Kata 6](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%206)
 
 * Introducción a las listas
   * Crear una lista
@@ -101,6 +101,8 @@ desde una notebook creada en Jupyter con visual studio code
 
 
 
+
+
 ## :computer: Clonar este repositorio
 
 Para ello primero verifica que tengas instaldo git
@@ -124,7 +126,7 @@ sudo apt-get install git
 una vez instalado solo tipeas este codigo en la terminal ya sea windows o linux o dando click en el boton code y luego en zip
 
 ```
-git clone https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons
+git clone https://github.com/JosafatJimenezB/KatasJosafatLaunchX.git
 ```
 
 

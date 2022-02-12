@@ -1,4 +1,4 @@
-![Banner](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/blob/main/extra/index.jpg)
+![Banner](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/blob/main/extra/index.jpg)
 
 # Bienvenido a la kata 4
 
@@ -7,7 +7,7 @@ Aqui lo que encontraras son los ejercicios de la kata 4 que fueron realizados en
 por el momento eso seria todo de parte de este Explorer :man_astronaut:
 
 
-[Regresar :arrow_left:](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons)
+[Regresar :arrow_left:](https://github.com/JosafatJimenezB/KatasJosafatLaunchX)
 
 
 ###### Made with :heart: by Josafat Jimenez

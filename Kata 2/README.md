@@ -1,4 +1,4 @@
-![Banner](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/blob/main/extra/index.jpg)
+![Banner](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/blob/main/extra/index.jpg)
 
 # Bienvenido a la kata 2
 
@@ -18,6 +18,6 @@ La agrego de esta manera ya que como es un entorno virtual lo pongo con capturas
 ##### Elaborado por Josafat Jimenez
 
 
-[Regresar :arrow_left:](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons)
+[Regresar :arrow_left:](https://github.com/JosafatJimenezB/KatasJosafatLaunchX)
 
 ###### Made with :heart: by Josafat Jimenez
