@@ -13,6 +13,7 @@ desde una notebook creada en Jupyter con visual studio code
 
 ## :blue_book: Contenido de las Katas
 
+Aqui se muestra de manera mas tecnica el contenido que se esta aplicando en los ejercicios de cada Kata 
 ### :man_astronaut: [Kata 0](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%200)
 
 * Creacion de una notebook
@@ -92,12 +93,50 @@ desde una notebook creada en Jupyter con visual studio code
   * Uniendo listas
   * Ordenar listas
 
-## :construction_worker: Proximamente... :construction:
 
-### :man_astronaut: Kata 7
-### :man_astronaut: Kata 8
-### :man_astronaut: Kata 9
-### :man_astronaut: Kata 10
+### :man_astronaut: [Kata 7](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%207)
+* Acerca de los ciclos 'while'
+* Uso de ciclos 'for' en listas
+* Acerca de los ciclo 'for'
+
+
+### :man_astronaut: [Kata 8](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%208)
+* Introducción a los diccionarios en Python
+  * Creación de un diccionario
+  * Lectura de los valores de un diccionario
+  * Modificación de los valores de un diccionario
+  * Adición y eliminación de claves
+  * Tipos de data complejos
+* Programación dinámica con diccionarios
+  * Recuperación de todas la claves y valores
+  * Determinando la existencia de una clave en un diccionario
+  * Recuperar todos los valores de un diccionario
+
+### :man_astronaut: [Kata 9](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%209)
+* Apectos básicos de las funciones en Python
+  * Funciones sin argumentos
+  * Argumentos opcionales y requeridos
+* Uso de argumentos en una función en Python
+  * Exigencia de un argumento
+  * varios argumentos necesarios
+  * Funciones con argumentos
+* Uso de argumentos de palabra clave en Python
+  * Combinación de argumentos y argumentos de palabra clave
+* uso de argumentos de variable en Python
+  * Argumentos de variable
+  * Argumentos de palabra clave variable
+
+
+### :man_astronaut: [Kata 10](https://github.com/JosafatJimenezB/KatasJosafatLaunchX/tree/main/Kata%2010)
+
+* Creación de Tracebacks para buscar errores
+* Tracebacks
+* Controlando las excepciones
+  * Try y Except en los bloques
+* Generación de excepciones
+
+
+### :artificial_satellite: Fin de la Misión :flight_arrival:
 
 
 
@@ -130,9 +169,8 @@ git clone https://github.com/JosafatJimenezB/KatasJosafatLaunchX.git
 ```
 
 
-**Nota**
-
-Este contenido extra fue realizado con el motivo de mostrar lo aprendido en lenguaje markdown y para poder ponerlo en practica!!
+>**Nota**
+>Este contenido extra fue realizado con el motivo de mostrar lo aprendido en lenguaje markdown y para poder ponerlo en practica!!
 
 
 
