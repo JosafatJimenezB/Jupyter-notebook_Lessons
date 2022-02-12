@@ -16,7 +16,7 @@ desde una notebook creada en Jupyter con visual studio code
 * Creacion de una notebook
 * Ejecucion de una notebook
 
-### :man_astronaut: Kata 1
+### :man_astronaut: [Kata 1](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%201)
 
 * Funcion print( )
 * Variables
@@ -30,12 +30,12 @@ desde una notebook creada en Jupyter con visual studio code
   * Entrada del Usuario
   * Trabajar con números
 
-### :man_astronaut: Kata 2 
+### :man_astronaut: [Kata 2](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%202) 
 
 * Trabajar con paquetes
 * Entornos virtuales
 
-### :man_astronaut: Kata 3
+### :man_astronaut: [Kata 3](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%203)
 
 * Lógica Booleana
 * Escribir declaraciones if()
@@ -44,7 +44,7 @@ desde una notebook creada en Jupyter con visual studio code
 * Trabajar con lógica condicional anidada
 * Operadores "and" "or"
 
-### :man_astronaut: Kata 4
+### :man_astronaut: [Kata 4](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%204)
 
 * Conceptos bascicos de cadenas en Python
   * Inmutabilidad de las cadenas
@@ -58,7 +58,7 @@ desde una notebook creada en Jupyter con visual studio code
 * Formato de cadenas en Python
 
 
-### :man_astronaut: Kata 5
+### :man_astronaut: [Kata 5](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%205)
 
 * Operadores en Python
   * Adición (Suma)
@@ -72,7 +72,7 @@ desde una notebook creada en Jupyter con visual studio code
   * Redondeo
   * Biblioteca Math
 
-### :man_astronaut: Kata 6
+### :man_astronaut: [Kata 6](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%206)
 
 * Introducción a las listas
   * Crear una lista
