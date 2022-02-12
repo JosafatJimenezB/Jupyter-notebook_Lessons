@@ -1,6 +1,6 @@
 ![Banner](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/blob/main/extra/index.jpg)
 
-# Jupyter notebook Lessons :man_technologist:
+# Katas LaunchX :man_technologist:
 
 
 Hola soy Josafat jimenez :wave:
