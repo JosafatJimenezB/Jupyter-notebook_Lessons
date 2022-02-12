@@ -101,15 +101,39 @@ desde una notebook creada en Jupyter con visual studio code
 
 
 
+## :computer: Clonar este repositorio
+
+Para ello primero verifica que tengas instaldo git
+
+#### Windows                               / linux
+#### Desde cmd tipeas el siguiente comando / Desde la terminal linux
+```
+git --version
+```
+
+En caso de que no se encuentre instalado lo puedes descargar aquí para windows
+[Soy el enlace :link:](https://git-scm.com/)
 
 
+En linux puedes instalarlo desde la terminal con el siguiente comando
+
+```
+sudo apt-get install git
+```
+
+una vez instalado solo tipeas este codigo en la terminal ya sea windows o linux o dando click en el boton code y luego en zip
+
+```
+git clone https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons
+```
 
 
+## Nota:
+
+Este contenido extra fue realizado con el motivo de mostrar lo aprendido en lenguaje markdown y para poder ponerlo en practica!!
 
 
-
-
-
+###### Made with :heart: by Josafat Jimenez
 
 
 
