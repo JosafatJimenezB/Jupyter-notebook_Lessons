@@ -11,7 +11,7 @@ desde una notebook creada en Jupyter con visual studio code
 
 ## :blue_book: Contenido de las Katas
 
-### :man_astronaut: Kata 0
+### :man_astronaut: [Kata 0](https://github.com/JosafatJimenezB/Jupyter-notebook_Lessons/tree/main/Kata%201)
 
 * Creacion de una notebook
 * Ejecucion de una notebook
