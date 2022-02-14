@@ -9,5 +9,8 @@ por el momento eso seria todo de parte de este Explorer :man_astronaut:
 
 [Regresar :arrow_left:](https://github.com/JosafatJimenezB/KatasJosafatLaunchX)
 
+![error1](1.png)
+![error1](config py.svg)
+
 
 ###### Made with :heart: by Josafat Jimenez

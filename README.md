@@ -173,6 +173,9 @@ git clone https://github.com/JosafatJimenezB/KatasJosafatLaunchX.git
 >Este contenido extra fue realizado con el motivo de mostrar lo aprendido en lenguaje markdown y para poder ponerlo en practica!!
 
 
+### Documentacion :open_book:
+
+La documentación completa de estos ejercicios elaborada por @FernandaOchoa la puedes encontrar en el siguiente enlace [Ver documentación](https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython)
 
 
 ###### Made with :heart: by Josafat Jimenez
