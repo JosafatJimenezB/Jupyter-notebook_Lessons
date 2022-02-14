@@ -175,7 +175,7 @@ git clone https://github.com/JosafatJimenezB/KatasJosafatLaunchX.git
 
 ### Documentacion :open_book:
 
-La documentación completa de estos ejercicios elaborada por @FernandaOchoa la puedes encontrar en el siguiente enlace [Ver documentación](https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython)
+La documentación completa de estos ejercicios elaborada por @FernandaOchoa y @LaunchX-InnovaccionVirtual la puedes encontrar en el siguiente enlace [Ver documentación](https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython)
 
 
 ###### Made with :heart: by Josafat Jimenez
